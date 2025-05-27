@@ -1,0 +1,86 @@
+Here’s a concise wireframe outline tailored for your **real-time biofeedback psychoacoustic app** using smartwatch and headphones, along with suggestions on how to create it using available tools:
+
+---
+
+## Wireframe Outline for Biofeedback Psychoacoustic App
+
+### 1. **Splash / Welcome Screen**
+- App logo and name
+- Brief tagline (e.g., “Personalized Sound Therapy for Your Mind”)
+- Sign In / Sign Up buttons
+
+### 2. **Home / Dashboard**
+- Greeting and current date/time
+- Quick status snapshot: current heart rate, stress level, sleep quality (pulled from smartwatch)
+- Main action buttons:
+  - Start Session
+  - View History
+  - Settings/Profile
+
+### 3. **Session Setup Screen**
+- Choose goal: Relaxation, Focus, Sleep, Meditation
+- Option to select or customize soundscape type (binaural beats, ambient, guided meditation)
+- Option for manual or automatic biofeedback-driven audio adaptation
+- Start button
+
+### 4. **Live Session Screen**
+- Real-time biometric data display (HR, HRV, stress level)
+- Visual feedback (e.g., calming animations or progress bars)
+- Current audio track/frequency info
+- Pause/Stop controls
+- Option to adjust volume or soundscape parameters
+- Button to end session
+
+### 5. **Session Summary Screen**
+- Session duration
+- Biometric trends during session (graphs of HR, HRV)
+- Mood/self-report input (optional)
+- Suggestions for next session or tips
+- Save and share options
+
+### 6. **History / Progress Screen**
+- List of past sessions with dates and goals
+- Summary stats (average stress reduction, session frequency)
+- Graphs showing progress over time
+
+### 7. **Settings/Profile**
+- Connect/disconnect smartwatch and headphones
+- Personal preferences (sound types, notification settings)
+- Privacy and data sharing controls
+- Help & Support
+
+---
+
+## Recommended Tools to Create Your Wireframe
+
+- **Wireframe.cc** (simple, low-fidelity wireframes)[1]  
+- **Visily’s Audio Listening App Wireframe Template** (customizable audio app template)[2]  
+- **Miro Wireframe Templates** (collaborative and easy to customize)[6]  
+- **Figma Community Meditation App Wireframe** (hi-fi example for inspiration)[4]
+
+---
+
+## How to Proceed
+
+1. **Select a tool** (e.g., Wireframe.cc for quick sketches or Figma for detailed design).  
+2. **Start with the Home/Dashboard screen** to define key user interactions.  
+3. **Add Session Setup and Live Session screens** focusing on real-time data display and controls.  
+4. **Iterate with user feedback** to refine flow and usability.  
+5. **Use templates** from Visily or Miro to accelerate design and ensure consistency.
+
+---
+
+This wireframe structure balances simplicity and functionality, supporting your app’s core goal: delivering adaptive, biofeedback-driven psychoacoustic therapy through smartwatch and headphones.
+
+Citations:
+[1] https://wireframe.cc
+[2] https://www.visily.ai/templates/audio-listening-app-wireframe/
+[3] https://fruto.design/case-studies/speech-therapy-app-accessible-ui-design
+[4] https://www.figma.com/community/file/1311656085908400110/hi-fi-wireframe-meditation-mobile-app
+[5] https://www.visme.co/templates/wireframes/fitness-app-wireframe-whiteboard-templates-1425289471/
+[6] https://miro.com/templates/wireframe/
+[7] https://moqups.com/blog/free-wireframe-templates-saas/
+[8] https://www.mdpi.com/2076-3417/14/2/781
+
+---
+Answer from Perplexity: pplx.ai/share
